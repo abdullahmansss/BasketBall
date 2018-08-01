@@ -40,7 +40,7 @@
                 android:text="0"
                 android:gravity="center"
                 style="@style/text"
-
+                android:textSize="30sp"
                 />
 
             <Button
@@ -105,6 +105,7 @@
                 android:text="0"
                 android:gravity="center"
                 style="@style/text"
+                android:textSize="30sp"
                 />
 
             <Button
